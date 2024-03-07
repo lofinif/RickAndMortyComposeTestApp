@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickAndMortyComposeTestApp</string>
+    <string name="character_item_loading_error">Loading error</string>
+    <string name="character_item_try_again">Try again</string>
+    <string name="character_item_last_know_location">Last known location:</string>
+    <string name="character_details_gender">Gender:</string>
+    <string name="character_details_origin">Origin:</string>
+    <string name="character_details_last_know_location">Last known location:</string>
+    <string name="character_details_loading_error">Loading error</string>
+    <string name="character_details_try_again">Try again</string>
+</resources>
